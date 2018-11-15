@@ -2,7 +2,7 @@
 
 Roles are used to collect permissions that define a particular function within
 the portal, according to a particular scope. Roles can be granted permissions to
-various functions within portlet applications. A roles is basically just a
+various functions within portlet applications. A role is basically just a
 collection of permissions that defines a function, such as Message Board
 Administrator. A role with that name is likely to have permissions relevant to
 the specific Message Board portlets delegated to it. Users who are placed in
